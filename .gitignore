@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+
+
+# cosas
+deploy_rsa
+deploy_rsa.pub
