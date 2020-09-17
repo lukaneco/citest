@@ -14,3 +14,11 @@ ssh-copy-id -i deploy_rsa.pub ezequieljsosa@34.75.155.110 ## ssh-copy-id -i depl
 rm deploy_rsa deploy_rsa.pub
 git commit -m "Add private key"
 git push
+
+
+
+
+
+C:\Users\Luca\Desktop\private.ppk
+
+/mnt/c/Users/Luca/Desktop/private.ppk
