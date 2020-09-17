@@ -129,7 +129,8 @@ dmypy.json
 .pyre/
 .idea/
 
-
+# Make sure to add deploy_rsa.enc to the git repository.
+# Make sure not to add deploy_rsa to the git repository.
 # cosas
 deploy_rsa
-deploy_rsa.pub
+# deploy_rsa.pub
